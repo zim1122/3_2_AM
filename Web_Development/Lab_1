@@ -1,1 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Web Development Course Lab Work</title>
+</head>
+<body>
 
+    <h1>Web Development Course Lab Work</h1>
+
+    <!-- Bold, Italic, Superscript, Subscript -->
+    <p>
+        This is <b>bold</b> text, this is <i>italic</i> text.<br>
+        Superscript: x<sup>2</sup><br>
+        Subscript: H<sub>2</sub>O
+    </p>
+
+    <!-- Marquee -->
+    <marquee behavior="scroll" direction="left">
+        Welcome to Web Development Lab
+    </marquee>
+
+    <!-- Image -->
+    <h2>Image Example</h2>
+    <img src="./Screenshot 2026-04-15 223243.png" alt="Sample Image">
+
+    <!-- Audio -->
+    <h2>Audio Example</h2>
+    <audio controls>
+        <source src="./blendertimer-censor-beep-10-seconds-8113.mp3" type="audio/mpeg">
+    </audio>
+
+    <!-- Video -->
+    <h2>Video Example</h2>
+    <video width="320" height="240" controls>
+        <source src="./YTDown.com_Shorts_Choose-Your-Hard_Media_5VDwKYSuYNs_001_1080p.mp4" type="video/mp4">
+        Your browser does not support video.
+    </video>
+
+    <!-- PDF -->
+    <h2>PDF Example</h2>
+    <iframe src="./ai_engineer_roadmap_2025_v3.pdf" width="600" height="400"></iframe>
+
+    <!-- Equation -->
+    <h2>Equation Example</h2>
+    <p>E = mc<sup>2</sup></p>
+
+</body>
+</html>
