@@ -10,3 +10,9 @@ Vulnarble time between aloha and slotted aloha protocol
 The throuput for pure aloha---Math Problem---example 12.3
 
 https://www.youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV
+
+
+--->Distinguish betwween connection oriantend and conecctionless protocol
+
+
+TCP and UDP
