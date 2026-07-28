@@ -5,8 +5,8 @@
   - **Date:** 14 July 2026
 
 - [ ] **Lab Quiz**
-  - **Syllabus:** JavaScript Basics
-  - **Date:** 22 July 2026
+  - **Syllabus:** JavaScript Basics--->Intoroduction to javascirpt scope ,Array,set,JS HTML DOM,Function,Object,Class 
+  - **Date:** Coming Monday
 
 - [ ] **CT-03**
   - **Syllabus:** Chapters 7, 8, 9, 10
